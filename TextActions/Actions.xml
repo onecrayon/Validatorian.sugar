@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<action-recipes>
+	
+	<action id="com.onecrayon.w3-validator.css" category="onecrayon.validation">
+		<class>OCShellAction</class>
+		<language-context>css, html</language-context>
+		<setup>
+			<script>validate-css.py</script>
+			<input>nothing</input>
+			<output>html</output>
+		</setup>
+	</action>
+	
+</action-recipes>
