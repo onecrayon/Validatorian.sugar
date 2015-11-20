@@ -33,7 +33,7 @@ Validatorian.sugar is written entirely in XML and Python using ShellAction.sugar
 
 To discover how I'm doing things or tweak its behavior to fit your own needs, right click the Sugar in the Finder and choose Show Package Contents or fork this project and go to town.
 
-You can also [email me](http://onecrayon.com/about/contact/) if you have any feedback, requests, or run across any problems. Alternately, come chat with me and other [Sugar devs on Glassboard](https://app.glassboard.com/web/invitation/code/yvyic).
+You can also [email me](http://onecrayon.com/about/contact/) if you have any feedback, requests, or run across any problems.
 
 ## Changelog
 
